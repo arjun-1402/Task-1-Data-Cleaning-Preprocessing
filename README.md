@@ -1,1 +1,17 @@
-# Task-1-Data-Cleaning-Preprocessing
+Titanic Dataset Preprocessing and Analysis
+This repository contains a Jupyter Notebook that performs data preprocessing and analysis on the Titanic dataset. The notebook handles missing values, encodes categorical variables, normalizes numerical features, removes outliers, and visualizes key insights from the data.
+
+Files Included:
+Titanic-Dataset.csv: This is the raw dataset used for analysis. It contains information about passengers on the Titanic.
+
+Titanic_Preprocessing_Analysis.ipynb: The Jupyter Notebook file that implements the data preprocessing steps, including:
+
+Handling missing values (mean/median imputation)
+
+Converting categorical features to numerical
+
+Normalizing/standardizing numerical features
+
+Visualizing and removing outliers
+
+Calculating the number of records removed due to outliers
