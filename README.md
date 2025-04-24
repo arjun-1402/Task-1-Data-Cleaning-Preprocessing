@@ -3,8 +3,7 @@ This repository contains a Jupyter Notebook that performs data preprocessing and
 
 Files Included:
 Titanic-Dataset.csv: This is the raw dataset used for analysis. It contains information about passengers on the Titanic.
-
-Titanic_Preprocessing_Analysis.ipynb: The Jupyter Notebook file that implements the data preprocessing steps, including:
+TASK 1 DATA CLEANING AND PREPROCESSSING.ipynb: The Jupyter Notebook file that implements the data preprocessing steps, including:
 
 Handling missing values (mean/median imputation)
 
